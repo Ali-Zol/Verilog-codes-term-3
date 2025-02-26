@@ -2,7 +2,7 @@ Verilog code for my Computer Architecture course project.
 
 Date: 2025, January
 
-Warning: This code doesn't run Fibonacci sequence testcase truly and its output is wrong.
+Warning: This code doesn't run Fibonacci sequence testbench truly and its output is wrong.
 
 Datapath diagram and control unit signals table are in screenshots folder.
 
